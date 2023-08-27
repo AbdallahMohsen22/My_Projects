@@ -8,6 +8,7 @@ Under the direction of the CIO,  the Director of Analytics and AI forms a task f
 business analysts, and purchasing buyers to select a No-Limits Analytics solution: Incorta.
 
 In this case study project, as a business analyst, we can will help TBC generate new profitability insights using Incorta.
+
 ----------------------------------------------------------------------------------------------------------------------------
 * State and City by Population
 
